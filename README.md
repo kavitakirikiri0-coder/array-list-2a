@@ -9,6 +9,8 @@ SWAP ELEMENT OP LINK : https://github.com/user-attachments/assets/f13a388c-9f43-
 REVERSE ITERATION OP LINK :https://github.com/user-attachments/assets/a5a34476-8e11-4503-8514-9a033804a411
 ITERARTORFROMSECOND OP LINK : https://github.com/user-attachments/assets/a512f9f5-bbae-47cc-81bd-3d416b1064e9
 INSERT END OP LINK : https://github.com/user-attachments/assets/f7eee70b-779d-41a7-9ae3-2b771a6464ed
+DISPLAY POSITION  OP LINK :https://github.com/user-attachments/assets/4f01695a-97de-43a9-a4a2-7253e0e54203
+
 
 
 
