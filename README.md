@@ -14,6 +14,8 @@ DISPLAY POSITION  OP LINK :https://github.com/user-attachments/assets/4f01695a-9
 STRINNG OPERATION OP LINK 2A : https://github.com/user-attachments/assets/b20149b7-988a-4a08-bee0-79bd8cdbd54f
 STRING PERFORMANCE TEAST 2B  OP LINK :https://github.com/user-attachments/assets/0ad8076a-c001-45a9-b6ac-263b52be1c35
 3A OP LINK : https://github.com/user-attachments/assets/7fb355d9-3882-4eda-b364-b25354b0a67e
+3B1 OP LINK :https://github.com/user-attachments/assets/c4d10c27-443d-4fb0-a635-b4afa6be01ef
+
 
 
 
