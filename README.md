@@ -7,6 +7,8 @@ delete nth op :https://github.com/user-attachments/assets/c7a3b6b2-2829-4805-bf4
 listoperation op : https://github.com/user-attachments/assets/771a6e30-b030-45f4-9d98-664b8290828a
 SWAP ELEMENT OP LINK : https://github.com/user-attachments/assets/f13a388c-9f43-4df8-879e-ad4fa535f791
 REVERSE ITERATION OP LINK :https://github.com/user-attachments/assets/a5a34476-8e11-4503-8514-9a033804a411
+ITERARTORFROMSECOND OP LINK : https://github.com/user-attachments/assets/a512f9f5-bbae-47cc-81bd-3d416b1064e9
+
 
 
 
