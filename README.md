@@ -1,5 +1,6 @@
 # 1b arraylist
 program
+LIST OPERATIO 1A  OP LINK :https://github.com/user-attachments/assets/5d10bfc7-bb74-4dcf-aa9e-129d7e1051d0
 search colour OP : https://github.com/user-attachments/assets/58050319-9702-42f9-b33c-ec14806399db
 remove colour OP :https://github.com/user-attachments/assets/fd10d599-c8d8-4010-9a63-b60cf4ba829e
 SUBLIST OP : https://github.com/user-attachments/assets/8a0fceea-389e-4f27-ba86-55ebd3d4918d
@@ -10,6 +11,7 @@ REVERSE ITERATION OP LINK :https://github.com/user-attachments/assets/a5a34476-8
 ITERARTORFROMSECOND OP LINK : https://github.com/user-attachments/assets/a512f9f5-bbae-47cc-81bd-3d416b1064e9
 INSERT END OP LINK : https://github.com/user-attachments/assets/f7eee70b-779d-41a7-9ae3-2b771a6464ed
 DISPLAY POSITION  OP LINK :https://github.com/user-attachments/assets/4f01695a-97de-43a9-a4a2-7253e0e54203
+
 
 
 
