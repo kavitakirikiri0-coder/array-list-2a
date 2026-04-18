@@ -11,6 +11,8 @@ REVERSE ITERATION OP LINK :https://github.com/user-attachments/assets/a5a34476-8
 ITERARTORFROMSECOND OP LINK : https://github.com/user-attachments/assets/a512f9f5-bbae-47cc-81bd-3d416b1064e9
 INSERT END OP LINK : https://github.com/user-attachments/assets/f7eee70b-779d-41a7-9ae3-2b771a6464ed
 DISPLAY POSITION  OP LINK :https://github.com/user-attachments/assets/4f01695a-97de-43a9-a4a2-7253e0e54203
+STRINNG OPERATION OP LINK 2A : https://github.com/user-attachments/assets/b20149b7-988a-4a08-bee0-79bd8cdbd54f
+
 
 
 
